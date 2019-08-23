@@ -1,0 +1,27 @@
+{
+  "name": "dungeon-yelper-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanpatches/dungeon-yelper-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanpatches/dungeon-yelper-backend/issues"
+  },
+  "homepage": "https://github.com/seanpatches/dungeon-yelper-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.10",
+    "nodemon": "^1.19.1"
+  }
+}
